@@ -1,0 +1,21 @@
+body {
+  font-family: "Source Sans Pro", Helvetica;
+  color: #CCC;
+}
+
+#wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#chart svg{
+  /*background-color: #112527;*/
+}
+
+.football-text {
+  font-size: 26px;
+}
+
+.football-percentage {
+  font-size: 46px;
+}

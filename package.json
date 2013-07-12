@@ -1,0 +1,22 @@
+{
+  "name": "sports_data_viz",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knomedia/utahjs_blank_d3.git"
+  },
+  "dependencies": {
+    "express": "~3.3.3"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "524fc1ddb190496041ac945d7b78b866d55a6126",
+  "bugs": {
+    "url": "https://github.com/knomedia/utahjs_blank_d3/issues"
+  }
+}
